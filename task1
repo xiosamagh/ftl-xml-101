@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<category>
+   <title>shop</title>
+   <image>image1</image>
+   <parent_category>factory</parent_category>
+</category>
+
+<product category = "shop">
+   <title>meat</title>
+   <description>Мясо - это плоть животных, которую едят в пищу</description>
+   <array_image>array1</array_image>
+   <price>250</price>
+</product>
