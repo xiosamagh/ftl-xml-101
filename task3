@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<tasks>
+	<task category = "обязательный">
+		<title>Выучить любое стихотворение Пушкина</title>
+		<list_questions>list1</list_questions>
+	</task>
+
+	<task category = "необязательный">
+		<title>Прочитать статью про Чехова</title>
+		<list_questions>list2</list_questions>
+	</task>
+</tasks>
+
+<lesson category = "обязательный">
+	<title>Литература</title>
+   	<description>это любое собрание письменных произведений, но она также используется более узко для произведений, специально рассматриваемых как форма искусства</description>
+   	<list_tasks>task1, task2</list_tasks>
+</lesson>
